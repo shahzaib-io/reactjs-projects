@@ -1,10 +1,25 @@
-# React Project Using Essential React Concepts
+# React Project — Essential React Concepts
 
-This React project showcased the essential React concepts like Components, States etc.
+This React project showcases fundamental React concepts such as **Components**, **State**, **Props**, and basic **UI interactions**.  
+It’s designed as a learning project to demonstrate how React works at its core.
 
-## Components
+---
 
-In this project directory, you will find following components:
+## 🧩 Components
+
+This project includes the following key components:
+
+- **Accordion** — demonstrates conditional rendering, event handling, and local component state management.
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
 
 ```bash
-Accordion
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
