@@ -10,6 +10,7 @@ It’s designed as a learning project to demonstrate how React works at its core
 This project includes the following key components:
 
 - **Accordion** — demonstrates conditional rendering, event handling, and local component state management.
+- **Random Color Generator** — Generates Random color HEX or RGB based on selection, using useState and useEffect
 
 ---
 
